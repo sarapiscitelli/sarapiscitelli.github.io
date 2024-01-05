@@ -1,0 +1,14 @@
+[
+    {
+        "role":"AI Research Engineer",
+        "company":"[Leonardo Company](https://www.leonardo.com/en/innovation-technology/leonardo-labs) [(Leonardo Labs)](https://www.leonardo.com/en/researchers-detail/-/detail/sara-piscitelli)",
+        "summary":"\n- Engaged in **research** and **software engineering** activities for both internal and European projects\n- Engineered software systems using **NLP** models for automated information extraction from documents\n- Applied **large language models (LLMs)** across multiple applications (e.g. question answering, clustering, text generation, triplet extraction, ...)\n- Worked on image super-resolution employing Generative Adversarial Networks (GANs)",
+        "range":"May 2021 - Present"
+    },
+    {
+        "role":"Junior Data Scientist",
+        "company":"[LINKS Foundation](https://linksfoundation.com/en/)",
+        "summary":"\n- Involved in **research** and **software engineering** activities for European projects\n- Contributed to the design, implementation, and ongoing maintenance of a distributed system analyzing social media\n- Applied **NLP methods** for analyzing and processing textual data sources",
+        "range":"April 2020 - May 2021"
+    }
+]

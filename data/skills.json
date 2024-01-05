@@ -1,0 +1,44 @@
+[
+  {
+    "grouping":"Artificial Intelligence",
+    "skills":[
+      {"name":"Natural Language Processing"},
+      {"name":"Reinforcement Learning"},
+      {"name":"Deep Learning"},
+      {"name":"Machine Learning"}
+    ]
+},
+{
+  "grouping":"Libraries & Frameworks",
+  "skills":[
+    {"name":"PyTorch"},
+    {"name":"HuggingFace Libraries (transformers, datasets, peft)"},
+    {"name":"LangChain"},
+    {"name": "Semantic Kernel"},
+    {"name":"Pandas"},
+    {"name":"Numpy"},
+    {"name":"Asyncio & Multiprocessing"}
+  ]
+},
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":["Python","git","linux","bash"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"MySQL","icon":"msql_server"},
+        {"name":"MongoDB","icon":"mongoDB"},
+        {"name":"Neo4j","icon":"neo4j"},
+        {"name":"Redis","icon":"redis"}
+      ]
+  },
+  {
+    "grouping":"Deployment",
+    "skills":[
+      {"name":"Docker","icon":"docker"},
+      {"name":"Microservices Architecture"},
+      {"name":"RESTful APIs Architecture"}
+    ]
+}
+]
