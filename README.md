@@ -9,6 +9,8 @@ To set up a local development server using Hugo, follow these steps:
 2. Clone the repository
    ```
    git clone https://github.com/sarapiscitelli/sarapiscitelli.github.io/edit/main/README.md
+   git submodule init
+   git submodule update 
    ```
 3. Start the development server with this command:  
    ```
