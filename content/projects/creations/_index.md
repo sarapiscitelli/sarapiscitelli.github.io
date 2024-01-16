@@ -1,5 +1,5 @@
 ---
-title: Creations
+title: Projects
 date: 2024-01-05T15:00:28.528Z
 link: Not applicable
 description: Not applicable
